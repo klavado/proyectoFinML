@@ -1,4 +1,4 @@
-ID,Zona,País,Tipo de producto,Sabor,Prioridad,Fecha pedido,ID Pedido,Fecha envío,Unidades, Precio Unitario , Coste unitario , Importe venta total , Importe Coste total 
+ID,Zona,Pais,Tipo de producto,Sabor,Prioridad,Fecha pedido,ID Pedido,Fecha envío,Unidades, Precio Unitario , Coste unitario , Importe venta total , Importe Coste total 
 A001,Australia y Oceanía,East Timor,Bebida Bolt,Fresa,Alta,27/12/2020,111818778,20/01/2021,8516,47.45,31.79,404084.2,270723.64
 A002,Europa,Norway,Bebida Bolt,Naranja,Baja,16/10/2021,115831792,6/11/2021,6056,47.45,31.79,287357.2,192520.24
 A003,Europa,Germany,Bebida Bolt,Nuevo Mango,Media,15/01/2021,116113746,29/01/2021,9493,47.45,31.79,450442.85,301782.47
